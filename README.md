@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walkthrough](https://s3.gifyu.com/images/walk.gif) :)
+<img src='https://s3.gifyu.com/images/walk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
